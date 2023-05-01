@@ -1,0 +1,47 @@
+.container{
+    width: 600px;
+    height: 600px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+
+#One{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin-top: 20px;
+    position: relative;
+    right: 30px;
+    text-align: center;
+}
+
+#Two{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#Three{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#Four{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
